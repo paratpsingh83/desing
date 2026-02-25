@@ -1,4 +1,4 @@
-package Creational.factory;
+package Creational.factory_design_pattern;
 
 public class Factory {
 
