@@ -1,4 +1,4 @@
-package Creational.builder_design_patter;
+package Creational.builder_design_pattern;
 
 public class User {
 
