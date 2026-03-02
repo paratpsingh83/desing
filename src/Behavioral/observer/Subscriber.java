@@ -1,4 +1,4 @@
-package Behavioral;
+package Behavioral.observer;
 
 public class Subscriber implements Observer {
 
